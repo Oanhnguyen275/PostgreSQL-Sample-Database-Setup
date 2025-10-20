@@ -1,15 +1,19 @@
+# PostgreSQL Sample Database Setup
 HR Employee Database SQL Project
 
 This project contains SQL queries designed to interact with a fictional company’s employee database. The database captures key HR information, including employees, departments, managers, salaries, and job titles.
 
-The primary goal of this project is to demonstrate the ability to retrieve meaningful insights from HR data using SQL. Key focus areas include:
+## Overview
 
-Extracting and analyzing employee and salary information
+This repository provides scripts to set up and populate a PostgreSQL database with sample data. It includes:
+- SQL scripts to create tables and insert sample data.
+- Instructions for restoring the database from a dump file.
 
-Querying department and manager details
+## Technologies Used
+- PostgreSQL: Relational database management system.
+- SQL: For database schema definition and data manipulation.
 
-Filtering and segmenting employees based on various criteria
-
-Generating actionable data insights for HR analytics and reporting
-
-This project showcases practical SQL skills applicable to HR analytics, workforce reporting, and data-driven decision-making.
+## Project Structure
+- `setup.sql`: SQL script to create tables and insert sample data.
+- `README.md`: This file, providing an overview of the project.
+- fictional company’s employee database files
